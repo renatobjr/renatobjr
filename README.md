@@ -12,5 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatobjr&layout=compact)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=renatobjr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-bonfim-jr-b20b93121/)](https://www.linkedin.com/in/renato-bonfim-jr-b20b93121/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/renatobjr?label=follow&style=social)](https://github.com/renatobjr)
+<br />
+<h2> Hi, I'm Renato Bonfim Jr.</h2>
+<p>Welcome to my repository! Here, I share some of the projects I've been working on. Feel free to explore, suggest improvements, and even contribute if you'd like!</p>
+<br /> 
+<h5>About me</h5>
+<p>I'm passionate about JS, GNU/Linux, HQ's and this space reflects a bit of my creative world.</p>
