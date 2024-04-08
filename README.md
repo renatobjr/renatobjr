@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatobjr&layout=compact)
 <br />
-<h2> Hi, I'm Renato Bonfim Jr.</h2>
+<h2> Hi, I'm Renato Ribeiro.</h2>
 <p>Welcome to my repository! Here, I share some of the projects I've been working on. Feel free to explore, suggest improvements, and even contribute if you'd like!</p>
 <h4>About me</h4>
 <p>I'm passionate about JS, GNU/Linux, HQ's and this space reflects a bit of my creative world.</p>
